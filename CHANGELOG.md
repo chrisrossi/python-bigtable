@@ -4,6 +4,28 @@
 
 [1]: https://pypi.org/project/google-cloud-bigtable/#history
 
+## [2.0.0-dev1](https://www.github.com/googleapis/python-bigtable/compare/v1.7.0...v2.0.0-dev1) (2021-03-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* microgenerator changes (#203)
+
+### Features
+
+* microgenerator changes ([#203](https://www.github.com/googleapis/python-bigtable/issues/203)) ([b31bd87](https://www.github.com/googleapis/python-bigtable/commit/b31bd87c3fa8cad32768611a52d5effcc7d9b3e2))
+* publish new fields for CMEK ([#222](https://www.github.com/googleapis/python-bigtable/issues/222)) ([0fe5b63](https://www.github.com/googleapis/python-bigtable/commit/0fe5b638e45e711d25f55664689a9baf4d12dc57))
+
+
+### Bug Fixes
+
+* guard assignments of certain values against None ([#220](https://www.github.com/googleapis/python-bigtable/issues/220)) ([341f448](https://www.github.com/googleapis/python-bigtable/commit/341f448ce378375ab79bfc82f864fb6c88ed71a0))
+
+
+### Dependencies
+
+* update gapic-generator-python to 0.40.11 ([#230](https://www.github.com/googleapis/python-bigtable/issues/230)) ([47d5dc1](https://www.github.com/googleapis/python-bigtable/commit/47d5dc1853f0be609e666e8a8fad0146f2905482))
+
 ## [2.0.0-dev1](https://www.github.com/googleapis/python-bigtable/compare/v1.7.0...v2.0.0-dev1) (2021-02-24)
 
 
